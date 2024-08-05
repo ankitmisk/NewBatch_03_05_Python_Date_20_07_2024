@@ -1,0 +1,56 @@
+Lists
+
+
+Question: Given a list of mixed data types, retrieve the element at the third index position.
+Explanation: Create a list containing integers, strings, and a float. Access the item located at index 3 and print it.
+Inserting and Removing Elements
+
+Question: Insert an element at the beginning of a list and then remove an element from the end.
+Explanation: Start with a list of integers. Use the list methods to insert a new element at the start of the list and remove the last element.
+List Concatenation
+
+Question: Concatenate two lists and find the length of the resulting list.
+Explanation: Combine two lists into one and then determine the total number of elements in the concatenated list.
+Finding Maximum and Minimum Values
+
+Question: Find the maximum and minimum values in a list of integers.
+Explanation: Given a list of numbers, use built-in functions to find and print both the largest and smallest numbers.
+List Comprehension for Filtering
+
+Question: Use list comprehension to create a new list that contains only the even numbers from an existing list of integers.
+Explanation: Given a list of numbers, write a list comprehension to filter out the odd numbers and retain only the even ones.
+Flattening a Nested List
+
+Question: Flatten a nested list into a single list.
+Explanation: You have a list that contains other lists as elements. Write code to combine all the nested lists into one single list.
+
+
+
+
+
+
+Strings
+String Reversal
+
+Question: Reverse a given string without using built-in reverse functions.
+Explanation: Given a string, write a function to reverse the characters of the string manually and return the reversed string.
+Counting Substring Occurrences
+
+Question: Count how many times a specific substring appears in a string.
+Explanation: Given a string and a substring, write code to count and return the number of times the substring occurs within the string.
+String Trimming and Padding
+
+Question: Trim whitespace from both ends of a string and then pad it to a specified length with a character.
+Explanation: Start with a string that has leading and trailing spaces. Trim these spaces and then pad the string to a certain length with a specified character.
+String Case Conversion
+
+Question: Convert a string to title case, where the first letter of each word is capitalized.
+Explanation: Given a string, convert it to title case format and return the result.
+Substring Replacement
+
+Question: Replace all occurrences of a specific substring in a string with another substring.
+Explanation: Given a string and two substrings, replace every occurrence of the first substring with the second one.
+String Palindrome Check
+
+Question: Check if a given string is a palindrome, i.e., it reads the same forwards and backwards.
+Explanation: Write a function to determine if the input string is a palindrome by comparing it to its reversed version.
